@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on data visualization
 - 🤔 I’m looking for help with data visualization
 - 💬 Ask me about data visualization
-- 📫 How to reach me: obxyz.com#gmail
+- 📫 How to reach me: info@obxyz.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
